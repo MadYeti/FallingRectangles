@@ -1,0 +1,7 @@
+.label{
+	-fx-border-style: solid;
+	-fx-background-color: yellow;
+}
+.BorderPane{
+	-fx-background-color: green;
+}
